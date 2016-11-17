@@ -42,8 +42,6 @@ describe 'Html DSL' do
 
   	expect(tag.to_s).to eq '<span><b></b></span>'
 
-  	cuenta depositar 234
-
   end
 
   # Html tests
